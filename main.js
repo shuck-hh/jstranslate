@@ -11,5 +11,27 @@ function replaceTextEverywhere(searchText, replaceText) {
     }
 }
 
-// Beispiel
-replaceTextEverywhere("Hello", "World");
+const language = navigator.language;
+
+console.log(language);
+
+async function loadList() {
+  const response = await fetch("/list.txt");
+  const text = await response.text();
+
+  return text.split("\n");
+}
+
+async function main() {
+  const items = await loadList();
+
+  console.log(items);
+
+  doSomething(items);
+}
+
+function doSomething(items) {
+  console.log(items[0]);
+}
+
+main();
