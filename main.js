@@ -12,4 +12,4 @@ function replaceTextEverywhere(searchText, replaceText) {
 }
 
 // Beispiel
-replaceTextEverywhere("Hallo", "Welt");
+replaceTextEverywhere("Hello", "World");
