@@ -31,3 +31,7 @@ A javascript libary for translating websites
   </body>
 ```
 8. You're all set 👍
+
+## Roadmap
+Future features:
+1. manual Language selecting
