@@ -27,7 +27,7 @@ A javascript libary for translating websites
 ```html
   <body>
   <!--...-->
-  <script src="./translate/main.js"/>
+  <script src="./translate/main.js">
   </body>
 ```
 8. You're all set 👍
