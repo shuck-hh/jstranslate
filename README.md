@@ -10,6 +10,8 @@ There is a installer for Linux. To run:
 ```bash
 bash <(curl -sL https://github.com/shuck-hh/jstranslate/releases/latest/download/install-linux.sh)
 ```
+#### Windows
+Download the latest install-win.bat from the releases tab and paste it into your project folder. Now just double-click.
 
 ### The good old way
 1. Take `main.js` and place it somewhere in your project folder (You probably want to create a folder for that)
