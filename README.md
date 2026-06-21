@@ -2,11 +2,11 @@
 A javascript libary for translating websites
 
 ## How to use
-1. Take main.js and place it somewhere in your project folder (You probably want to create a folder for that)
+1. Take `main.js` and place it somewhere in your project folder (You probably want to create a folder for that)
 2. Create a .txt file in the same directory named `jstranslate_langs.txt`.
 3. Fill it with some international language shortcuts (e.g.: `de-DE` or `en`)
 4. Then for each language you've put into that file, create a JSON named the same as the language shortcut (again e.g.: `de-DE` or `en`)
-5. Fot example, fill the en.json file like this:
+5. For example, fill the en.json file like this:
 ```json
 [
   {
