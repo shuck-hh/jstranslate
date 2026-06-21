@@ -2,6 +2,16 @@
 A javascript libary for translating websites
 
 ## How to use
+You can use a installer script or manually install jstranslate to your project
+
+### A installer script
+#### Linux
+There is a installer for Linux. To run:
+```bash
+bash <(curl -sL https://github.com/shuck-hh/jstranslate/releases/latest/download/install-linux.sh)
+```
+
+### The good old way
 1. Take `main.js` and place it somewhere in your project folder (You probably want to create a folder for that)
 2. Create a .txt file in the same directory named `jstranslate_langs.txt`.
 3. Fill it with some international language shortcuts (e.g.: `de-DE` or `en`)
