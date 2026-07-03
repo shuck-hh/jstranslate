@@ -48,3 +48,4 @@ Download the latest install-win.bat from the releases tab and paste it into your
 ## Roadmap
 Future features:
 1. manual Language selecting
+2. `<title>` translation
