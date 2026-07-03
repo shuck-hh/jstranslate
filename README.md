@@ -1,5 +1,6 @@
 # jstranslate
-A javascript libary for translating websites
+A javascript libary for translating websites.
+[Example Usage](https://shuck-hh.github.io/ufdh-jstranslate/)
 
 ## How to use
 You can use a installer script or manually install jstranslate to your project
