@@ -1,6 +1,8 @@
 # jstranslate
-A javascript libary for translating websites.
+A javascript libary for translating websites. jstranslate is useful if you have a website that only needs to be translated once. Why? Look at how it works down below.
 [Example Usage](https://shuck-hh.github.io/ufdh-jstranslate/)
+
+
 
 ## How to use
 You can use a installer script or manually install jstranslate to your project
